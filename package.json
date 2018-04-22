@@ -1,0 +1,22 @@
+{
+  "name": "bosch-compress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xmpp/plugins": "^0.3.0",
+    "config": "^1.29.4",
+    "node-xmpp": "^1.1.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "sasl-digest-md5": "^0.1.0",
+    "xmpp.js": "^0.3.0",
+    "xmppjs": "^1.0.0"
+  }
+}
